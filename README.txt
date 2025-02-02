@@ -1,3 +1,5 @@
+Note: If you are having trouble reading this file in the main page, please consider opening it directly, either in GitHub, or by downloading it, as it is better optimized there.
+
 ## Program Details ##
 
 This program will allow you to enter first the name of a text file, then some text to put in that file, then a time indication to schedule
