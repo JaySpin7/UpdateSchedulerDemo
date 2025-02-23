@@ -76,7 +76,7 @@ def ScheduleTask(): # Will guide the user through the process of entering all th
 
 
 
-print("This program will allow you to choose a text file and some new text to put in it,\n then schedule a time today to make that change. \n This is intended as a demo program and should not be expected to\n have any real world value. Please refer to the READMME.txt file that is packaged with\n this program to learn more about it's purpose and licensing restrictions")
+print("This program will allow you to choose a text file and some new text to put in it,\n then schedule a time today to make that change. \n This is intended as a demo program and should not be expected to\n have any real world value. Please refer to the README.txt file that is packaged with\n this program to learn more about it's purpose and licensing restrictions")
 Running = True
 while Running:
     ScheduleTask()
